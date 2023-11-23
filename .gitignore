@@ -1,2 +1,6 @@
 *.o
+*.ps1.bin
 *.exe
+
+/PrismPs1
+/saltelsasso.ps1

@@ -1,5 +1,5 @@
 TARGET = HelloWorld
 
-SRCS = HelloWorld2.s HelloWorld.c
+SRCS = HelloWorld.s
 
 include ../common.mk 

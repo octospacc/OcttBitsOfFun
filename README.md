@@ -10,7 +10,12 @@ Index of contents in this repo, might or might not always be complete...
 I will also try to credit everyone I can for all the contents listed, when my work is in great part based on someone else's.
 
 * Thanks to <https://github.com/PeterLemon/PSX/tree/master/Cube>:
-	* [BouncyCubePs1](BouncyCubePs1)
+	* [BouncyCubePs1.asm](BouncyCubePs1.asm)
+
+* Thanks to <https://github.com/ABelliqueux/nolibgs_hello_worlds/tree/main/hello_world> for the original code structure; all assembly code by me:
+	* [HelloWorld-PS1-PsyQ.asm](HelloWorld-PS1-PsyQ.asm)
+
+(For now there's only PSX assembly things in here, this will soon change)
 
 ## Related
 
