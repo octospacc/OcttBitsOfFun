@@ -7,7 +7,7 @@ Feel free to look around and take inspiration, if you will.
 ## Index + Credits
 
 Index of contents in this repo, might or might not always be complete...
-I will also try to credit everyone I can for all the contents listed, when my work is in great part based on someone else's.
+I will also try to credit everyone I can for all the contents listed, when my work is in great part based on someone else's, unless I've already done so in a secondary, dedicated README.
 
 * Thanks to <https://github.com/PeterLemon/PSX/tree/master/Cube>:
 	* [BouncyCubePs1.asm](BouncyCubePs1.asm)
@@ -15,7 +15,7 @@ I will also try to credit everyone I can for all the contents listed, when my wo
 * Thanks to <https://github.com/ABelliqueux/nolibgs_hello_worlds/tree/main/hello_world> for the original code structure; all assembly code by me:
 	* [HelloWorld-PS1-PsyQ.asm](HelloWorld-PS1-PsyQ.asm)
 
-(For now there's only PSX assembly things in here, this will soon change)
+* [Android Floating WebView](AndroidFloatingWebView) — Simple app arranged for an effective way of having a WebView as a constant untouchable overlay on my screen
 
 ## Related
 
